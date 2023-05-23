@@ -1,0 +1,15 @@
+# Desafio número 1
+
+> Nesse desafio, foi preciso publicar uma imagem no docker hub.
+> 
+> 
+> Quando executarmos:
+> 
+> docker run g2d2/fullcycle
+> 
+> Temos que ter o seguinte resultado: Full Cycle Rocks!!
+> 
+> A imagem em GO não pode ultrapassar 2MB.
+> 
+
+Link do Dockerhub: [https://hub.docker.com/r/gabrielg2d2/fullcycle](https://hub.docker.com/r/gabrielg2d2/fullcycle)
